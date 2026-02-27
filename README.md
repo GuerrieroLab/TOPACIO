@@ -13,4 +13,4 @@ This repository includes:
 - Scripts for statistical and correlative analyses linking molecular and clinical features
 - Scripts for generating figures and visualizations used in the manuscript
 
-Supporting input files (e.g., gene lists or metadata tables) required for running the analyses are included where applicable.
+Underlying clinical metadata are available upon reasonable request or through the appropriate controlled-access mechanism.
